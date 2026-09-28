@@ -55,10 +55,10 @@ export const interests = [
     icon: "⌘",
   },
   {
-    name: "Mathematics",
+    name: "Cloud Infrastructure",
     description:
-      "Using precise reasoning and mathematical ideas to understand and solve hard problems.",
-    icon: "∑",
+      "Designing secure, resilient cloud platforms that scale smoothly and keep critical services available.",
+    icon: "☁",
   },
 ];
 
